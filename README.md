@@ -2,7 +2,7 @@
 This is a simple Catch game implemented using Pygame, a popular Python library for game development.
 
 ## Features
-Player as an Arkanoid-style Bar: The player is represented as a bar that moves along the x-axis. The movement of the bar is controlled using the 'A' and 'D' keys. It possesses acceleration and comes to a halt when it collides with the borders of the game window.
+### Player as an Arkanoid-style Bar: The player is represented as a bar that moves along the x-axis. The movement of the bar is controlled using the 'A' and 'D' keys. It possesses acceleration and comes to a halt when it collides with the borders of the game window.
 
 ### Red Falling Object: A red object falls along the y-axis, appearing randomly at any x-axis position. As the game progresses, the falling object accelerates its descent after every three successful catches.
 
